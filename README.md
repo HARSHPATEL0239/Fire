@@ -1,2 +1,2 @@
 # Fire
-Lets start something new
+Lets start something new.
